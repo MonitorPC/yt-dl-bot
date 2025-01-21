@@ -1,1 +1,1 @@
-## Telegram bot for downloading YouTube videos
+## Telegram bot to download YouTube videos
